@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lennonhrmn
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning code at Polytech Montpellier.
-- ⚡ Fun fact: I'm not good at coding
+- 👀 Interests: I’m passionate about programming, sports data analysis, and solving real-world challenges through technology.
+- 🌱 Currently Learning: Pursuing my studies in Software Engineering and Management at Polytech Montpellier, specializing in computer science and project management.
+- ⚡ Fun fact: I’ve played as a goalkeeper for West Bromwich Albion and Montpellier HSC, combining my love for sports with a knack for strategy and teamwork.
 
 <!---
 lennonhrmn/lennonhrmn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
